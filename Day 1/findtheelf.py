@@ -1,4 +1,4 @@
-f = open('input.txt', 'r')
+f = open('/Users/trent.templet/Dev/WebApps/ZTM/Advent-of-Code-2022/Day 1/index.txt', 'r')
 input_ml = f.read()
 
 example = """1000
