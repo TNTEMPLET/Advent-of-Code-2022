@@ -17,7 +17,7 @@ example = """1000
 10000"""
 
 # data = example.splitlines()
-data = input.splitlines( )
+data = input_ml.splitlines( )
 
 #creating dictionary
 
